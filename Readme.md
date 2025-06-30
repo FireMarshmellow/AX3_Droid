@@ -17,7 +17,7 @@ This repo contains:
 
 * [Video 1 – Overview & First Look](https://youtu.be/6mtj2sq3ZnQ)
 * [Video 2 – Detailed Walkthrough](https://youtu.be/tR4utJliNfc)
-* [Video 3 – WIP: ESP-NOW & Current Electronics](https://youtu.be/)
+* [Video 3 – ESP-NOW & Current Electronics](https://youtu.be/hB1pmuN63zc)
 
 ---
 ## 🎨 Paint Job
